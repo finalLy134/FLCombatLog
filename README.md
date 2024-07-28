@@ -1,6 +1,7 @@
 # **FLCombatLog**
 
 [SpigotMC Page](https://www.spigotmc.org/resources/flcombatlog.118428/)
+
 Version: 1.1
 Minecraft Version: 1.20.4, 1.20.6
 Dependencies: Citizens
