@@ -7,7 +7,7 @@ Minecraft Version: 1.20.4, 1.20.6
 Dependencies: Citizens
 ```
 
-**Overview**
+## **Overview**
 FLCombatLog is a robust and efficient plugin designed to prevent combat logging on your Minecraft server. With FLCombatLog, when a player disconnects while in combat, an NPC representing their body will be spawned, giving their opponent a chance to claim victory and collect the loot.
 
 ## **Features**
