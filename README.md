@@ -53,8 +53,7 @@ combat-tag-duration: 10 # Time in seconds a player is considered in combat after
 Combat logging can ruin the competitive experience on PvP servers. FLCombatLog ensures fair play by giving players a chance to fight to the end, even if their opponent tries to escape by disconnecting. This plugin maintains the thrill and integrity of combat, providing a seamless and enjoyable experience for all players.
 
 ## **Showcase**
-https://www.youtube.com/watch?v=yiPbv_6Wavs
-(If you would notice the BS instead of FL it's because this system was made for our Beit Shamai [BS] Server)
+![caption](https://www.youtube.com/watch?v=yiPbv_6Wavs)
 
 ## **Support and Feedback**
 For support, questions, or feedback, please join our Discord Community.
